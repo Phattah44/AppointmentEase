@@ -6,8 +6,9 @@ import dynamic from 'next/dynamic';
 import { Toaster } from 'react-hot-toast';
 
 export const metadata: Metadata = {
-  title: 'Veloblock',
-  description: 'A borderless payment and loan platform,',
+  title: 'AppointmentSync',
+  description:
+    'Automate your appointment scheduling and client notifications with our powerful platform.',
 };
 
 const DynamicBody = dynamic(() => import('@/components/layout/Body'), {
