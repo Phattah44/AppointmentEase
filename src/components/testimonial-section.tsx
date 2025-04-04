@@ -5,20 +5,20 @@ export function TestimonialsSection() {
     {
       quote:
         'AppointmentSync has reduced our no-show rate by 35%. The WhatsApp notifications are a game-changer for our dental practice.',
-      author: 'Dr. Sarah Johnson',
+      author: 'Dr. Muhammed',
       role: 'Dental Care Plus',
     },
     {
       quote:
         'The seamless integration with our Outlook calendars has saved our staff hours of manual work each week. Highly recommended!',
-      author: 'Mark Williams',
-      role: 'MediClinic Director',
+      author: 'Mr Abdulfattah',
+      role: 'NOHIL Radiographer',
     },
     {
       quote:
         "Our patients love getting reminders via WhatsApp. It's more personal than email and more reliable than SMS.",
-      author: 'Jennifer Lee',
-      role: 'HealthFirst Administrator',
+      author: 'Dr Adam',
+      role: 'HSC Health Officer',
     },
   ];
 

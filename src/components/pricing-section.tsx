@@ -11,9 +11,10 @@ import {
 export function PricingSection() {
   const plans = [
     {
-      name: 'Starter',
-      price: '$49',
-      description: 'Perfect for small practices',
+      name: 'Individual',
+      price: '$8',
+      description:
+        'Perfect for individual that want to automate their schedule',
       features: [
         'Up to 100 appointments/month',
         'WhatsApp notifications',
@@ -26,8 +27,9 @@ export function PricingSection() {
     },
     {
       name: 'Professional',
-      price: '$99',
-      description: 'Ideal for growing businesses',
+      price: '$15',
+      description:
+        'Ideal for growing businesses and professional that want to manage client schedules',
       features: [
         'Up to 500 appointments/month',
         'WhatsApp notifications',

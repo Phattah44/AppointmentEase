@@ -13,7 +13,7 @@ export function HeroSection() {
           </h1>
           <p className='text-xl text-muted-foreground max-w-[600px]'>
             Seamlessly connect Outlook Calendar with WhatsApp to automate
-            appointment scheduling and client notifications.
+            appointment, scheduling and client notifications.
           </p>
           <div className='flex flex-col sm:flex-row gap-4'>
             <Button size='lg' className='gap-2'>
@@ -32,10 +32,10 @@ export function HeroSection() {
         <div className='relative'>
           <div className='relative rounded-lg overflow-hidden border shadow-xl'>
             <Image
-              src='/hero.png'
+              src='/schedule.webp'
               alt='AppointmentSync Dashboard'
-              width={200}
-              height={200}
+              width={700}
+              height={800}
               className=''
             ></Image>
           </div>

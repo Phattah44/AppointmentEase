@@ -8,7 +8,7 @@ export function LogosSection() {
     { name: 'MediClinic' },
     { name: 'HealthFirst' },
     { name: 'AppointPro' },
-    { name: 'CareConnect' },
+    { name: 'NOHIL' },
   ];
 
   return (
